@@ -1,0 +1,5 @@
+{
+  "name": "GeoDash Clone & Editor",
+  "description": "A high-performance Geometry Dash clone with a fully functional grid-based level editor and physics engine.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,20 @@
+
+{
+  "short_name": "GeoDash",
+  "name": "Geometry Dash Clone Engine",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5726/5726532.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "orientation": "landscape",
+  "scope": "/",
+  "description": "High performance rhythm based platformer clone."
+}
